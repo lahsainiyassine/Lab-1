@@ -42,3 +42,9 @@ Tâche 8 : Extensions
 8.2 — Impact sur TF-IDF : Vectorisation comparée avec TfidfVectorizerde scikit-learn avant et après nettoyage pour mesurer le filtrage pour éliminer le bruit au profit des termes porteurs de sens.
 
 8.3 — Journalisation des paramètres : Export des hyperparamètres du pipeline (langue, règles de filtrage, modèles utilisés) au format JSON dans preprocess_config.json.
+
+
+https://github.com/user-attachments/assets/5a18a8b0-b2dd-446e-b3fc-24b3daa7ffb3
+
+
+

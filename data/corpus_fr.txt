@@ -1,0 +1,3 @@
+Le traitement automatique du langage naturel (NLP) est fascinant !
+Nous segmentons le texte, filtrons les mots vides, puis normalisons les mots.
+Ces étapes de prétraitement sont-elles indispensables pour les modèles d'apprentissage ?

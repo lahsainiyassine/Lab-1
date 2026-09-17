@@ -1,0 +1,3 @@
+Natural Language Processing with Python is fascinating!
+We are tokenizing, cleaning stop words, and stemming or lemmatizing texts.
+Aren't these NLP preprocessing steps essential for machine learning models?
